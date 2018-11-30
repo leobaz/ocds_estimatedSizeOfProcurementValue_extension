@@ -1,0 +1,23 @@
+{
+  "name": {
+    "en": "Estimated size of procurement value",
+    "sq": "Madhësia e vlerësuar e vlerës së prokurimit"
+  },
+  "description": {
+    "en": "Adds fields to the general section that covers the estimated size of the procurement value based on a codelist.",
+    "sq": "Shton fusha në seksionin e përgjithshëm që mbulon madhësinë e vlerësuar të vlerës së prokurimit bazuar në një list të kodeve."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/leobaz/ocds_estimatedSizeOfProcurementValue_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "codelists": [
+    "estimatedSizeOfProcurementValue.csv"
+  ],
+  "compatibility": [
+    "1.1"
+  ],
+  "dependencies": []
+}

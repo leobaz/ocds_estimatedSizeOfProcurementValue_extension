@@ -1,0 +1,5 @@
+Code,Title,Description
+bigValue, Big value, The estimated value of this procurement is big
+mediumValue, Medium value, The estimated value of this procurement is medium
+smallValue, Small value, The estimated value of this procurement is small
+minimalValue, Minimal value, The estimated value of this procurement is minimal

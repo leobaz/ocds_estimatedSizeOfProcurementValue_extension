@@ -1,0 +1,16 @@
+{
+    "properties": {
+        "estimatedSizeOfProcurementValue": {
+            "title": "Estimated value",
+            "description": "Estimated value of the procurement",
+            "type": "string",
+            "properties": {
+                "estimatedValue": {
+                    "title": "Estimated value",
+                    "description": "The estimated value of procurement",
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
